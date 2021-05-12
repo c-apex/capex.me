@@ -1,0 +1,10 @@
+---
+title: "Love Cant be Purchased"
+description: "When people find the value in symbols to be more important than the love the symbol stands for, issues arise."
+---
+
+I can’t for the life of me comprehend why people put so much value on a “real” diamond ring. There have been fairly recent debates on this topic sparked by a popular TikTok trend where the uploader tests diamonds. An authenticity seems to be present in the reactions but on numerous occasions, some spouses received angry calls about the diamond being fake.
+
+**I understand if the partner lied that there would then be a different issue**, but personally, I don’t even want a diamond ring. It’s honestly a bit of a red flag, at least to me if somebody is wanting to spend exorbitant amounts of money on me for something that's frankly, less meaningful than something passed through their family or a ring of a different material with some unique decoration. It doesn't just make me uncomfortable, I also find myself wondering if they have put a value on "us." Maybe it’s just a symbol of commitment to them, but if that’s the case, I don’t want that type of commitment. The same is true of extravagant dinners. Regardless of who pays, it’s unnecessary. I would much rather somebody show their love directly. No proxy, no items held at extreme values. **If you still feel like you have to “prove” your love, you shouldn’t propose.** Maybe that’s just me, but it honestly makes me super uncomfortable to even think about being with someone who values that stuff.
+
+**Any relationship is built fundamentally on trust and reliability.** This includes platonic friendships, familial love and the topic on hand, romantic interests. If you find genuine value in dinners and fancy jewelry, that's not inherently bad. I begin to see problems when they serve as a "proxy" of sorts. **At the end of the day, everybody is entitled to their own preferences and furthermore, have the right to display affection in their own unique way. As long as it's done for the right reasons, I won't question.**

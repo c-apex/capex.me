@@ -1,0 +1,50 @@
+<html>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css">
+  <head>
+    <title>C-Apex - Home</title>
+    <meta property="og:title" content="C-Apex">
+    <meta property="og:site_name" content="">
+    <meta property="og:url" content="">
+    <meta property="og:description" content="Welcome to my corner of the internet.">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="">
+  </head>
+  <body>
+    <div id="wiki">
+      <div class="jumbotron">
+        <h1>Hello, I'm a user who goes by <b>Apex</b>.</h1>
+        <h4>Welcome to my side of the internet!</h4>
+        <hr>
+        <b>My line of "A" projects are below...</b><br>
+        <a href="https://github.com/c-apex/A-Bot">A-Bot</a><br>
+        <a href="https://github.com/c-apex/A-Wiki">A-Wiki</a><br>
+        <a href="https://github.com/c-apex/A-Share">A-Share</a>
+        <hr>
+        <b>My tangents on various topics are available below...</b>
+      <% for (post of posts) { %>
+        <a href="/<%= post.slice(0, -3) %>">
+          <div class="post">
+            <%= post.replace(/.md|-/g, ' '); %>
+          </div>
+        </a>
+      <% } %>
+  </body>
+      </div>
+        <footer>
+          <hr>
+          <p class="text-center text-muted"><b>Let's connect!</b></p>
+          <p class="text-center text-muted">
+            <a href="mailto:apex@capex.me?subject=[capex.me]:">
+            <img src="https://i.imgur.com/Z8Kdv9y.png" alt="E-Mail" style="width:42px;height:42px;">
+          </a>
+            <a href="https://github.com/c-apex">
+              <img src="https://i.imgur.com/1T2fKvp.png" alt="GitHub" style="width:42px;height:42px;">
+            </a>
+            <a href="https://discord.gg/zKNsBEVfYz">
+              <img src="https://i.imgur.com/BnLS9eH.png" alt="Discord" style="width:42px;height:42px;">
+            </a>
+          </p>
+
+          <p class="text-center text-muted"><small>Site custom-made, based upon my project, A-Wiki</small><br><i><small>Icons designed by Pixel Perfect and Freepik from Flaticon</small></i></p>
+        </footer>
+</html>
