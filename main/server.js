@@ -38,9 +38,4 @@ app.get("/", (req, res) => {
 	});
 });
 
-const options = {
-	cert: fs.readFileSync('./sslcert/fullchain.pem'),
-	key: fs.readFileSync('./sslcert/privkey.pem')
-};
-app.listen(80);
-https.createServer(options, app).listen(443);
+app.listen(8081);

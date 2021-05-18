@@ -1,8 +1,0 @@
----
-title: "Cancel Culture has a Responsibility"
-description: "Cancel culture has gone too far, but that doesn't mean the world has no use for the concept of accountability."
----
-
-Cancel culture has gone too far. That statement is taking hold in many reasonable people’s minds. Hardly anything is black and white. The same is true of the cancel culture problem; there is no clear answer. The act of “cancelling” is an idea as old as societies, yet the very name is indicative of the new-found sole purpose. A purpose that used to be justice is instead now a hollow shell of morality, or lack thereof. This does not mean that individuals who deviate from socially accepted norms in ways that hurt others should be suddenly absolved upon a half-hearted apology. After all, it is a citizens duty towards their society to let their people know of such wrongdoings. Unfortunately, in a world where radical beliefs are encouraged, it appears there is no middle ground to be found. This statement becomes sadly ironic under the realization that most mistakes people are “cancelled” over are (often) harmless and unintentional.
-
-*If content offends you, you have the right to click away. If it doesn’t directly affect you, a generalized culture, or somebody you love, let people who can be reasonably objective step in and mediate.* **The goal of “cancelling” should never be to ruin somebody forever. In doing this, one is announcing their own moral inferiority in a very tangible form.**
